@@ -1,0 +1,38 @@
+#head {
+  background: black; }
+  #head h3 {
+    color: dimgrey; }
+  #head .col-md-6 {
+    text-align: right;
+    margin-top: 10px; }
+    #head .col-md-6 .form-group:nth-child(2) {
+      margin-left: -4px;
+      margin-right: -3px; }
+    #head .col-md-6 button {
+      background: #5cb85c;
+      color: white;
+      border: none;
+      padding: 7px; }
+
+#content {
+  background: #eeeeee;
+  height: 250px; }
+  #content h1 {
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 50px; }
+
+#foot .container {
+  height: 230px;
+  border-bottom: 1px solid #f5f5f5; }
+#foot .col-md-4 {
+  margin-top: 15px;
+  margin-left: -13px; }
+
+.company {
+  margin-top: 15px;
+  color: #989595; }
+  .company .copright {
+    margin-left: -14px; }
+
+/*# sourceMappingURL=style.css.map */
